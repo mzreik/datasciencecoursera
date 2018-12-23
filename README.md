@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Sceince Coursera mzreik
+Data Science Coursera mzreik
