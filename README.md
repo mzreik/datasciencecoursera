@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Sceince Coursea mzreik
+Data Sceince Coursera mzreik
